@@ -1,0 +1,13 @@
+body {
+    background-color: navajowhite;
+    background-image: url(https://cdn.dribbble.com/users/375867/screenshots/3162301/cactus_island_game_background_dribbble.jpg);
+}
+
+#gameScreen {
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid black;
+    margin-left: 450px;
+    margin-top: 140px;
+}
